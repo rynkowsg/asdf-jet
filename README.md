@@ -6,7 +6,7 @@
 [![CircleCI Lint Status][ci-circleci-lint-badge]][ci-circleci-lint]
 [![License][license-badge]][license]
 
-[jet][jet-repo] plugin for the [asdf version manager][asdf-website].
+[ASDF][asdf-website] plugin for [jet][jet-repo].
 
 </div>
 
